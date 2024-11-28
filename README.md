@@ -1,6 +1,8 @@
 # 🐶 Classificador de Imagens: Qual é o Dog?
 Este projeto é um classificador de imagens de cães que utiliza TensorFlow Lite para prever a raça do cão com base na imagem carregada. Ele foi implementado com uma interface amigável utilizando Tkinter, permitindo aos usuários carregar imagens e ver os resultados de predição de forma simples e interativa.
 
+![Texto alternativo](/imagens/lulu_exemplo.png)
+
 # ✨ Funcionalidades
 Carregar imagens: O usuário pode selecionar imagens do seu computador para análise.
 Redimensionamento dinâmico: As imagens são ajustadas para caber na interface e exibidas em um Canvas com barras de rolagem para facilitar a navegação.
